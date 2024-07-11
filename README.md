@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Hack Club's Arcade Event!
+- 🔭 I’m currently working on Hack Club's Arcade Event! So enjoy some not-so-common repositories for things like art, graphics, and ukelele!
 - 🌱 I’m currently learning Design on Figma + Web Development!
