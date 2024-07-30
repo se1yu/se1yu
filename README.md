@@ -1,4 +1,4 @@
-## Hi there 👋
+## ⋆｡𖦹 ° Welcome! 🐚⋆❀˖°
 
 <!--
 **se1yu/se1yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello! I'm a senior in the Houston area - feel free to look around my non traditional Repos
 - 🔭 I’m currently working on Hack Club's Arcade Event! So enjoy some not-so-common repositories for things like art, graphics, and ukelele!
 - 🌱 I’m currently learning Design on Figma + Web Development!
