@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hello! I'm a senior in the Houston area - feel free to look around my non traditional repos
-- 🔭 I’m currently working on Hack Club's Arcade Event! So enjoy some not-so-common repositories for things like art, graphics, and ukelele!
-- 🌱 I’m learning Design on Figma + Web Development + getting back into art at the moment!
+- 🔭 I’m currently working on Hack Club's hackapet and asylum projects! 
+- 🌱 I’m also learning Design on Figma + Web Development + getting back into art at the moment!
 - Feel free to connect with me on social platforms at my handle.
