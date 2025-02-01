@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello! I'm a senior in the Houston area - feel free to look around my non traditional repos
-- 🔭 I’m currently working on Hack Club's hackapet and asylum projects! 
+Hello! I'm a senior in the Houston area - feel free to look around my random repositories.
+- 🔭 I’m currently working on Hack Club's juice event whilst trying to build up my Chineses. 
 - 🌱 I’m also learning Design on Figma + Web Development + getting back into art at the moment!
-- Feel free to connect with me on social platforms at my handle.
+- Feel free to connect with me on social platforms @se1yu
