@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 Hello! I'm a senior in the Houston area - feel free to look around my random repositories.
 
 Explore my websites [jeslynchang.me](https://new.express.adobe.com/webpage/kT4AJjaVtb2Qx) and [jeslynchang.com](http://www.jeslynchang.com/)!
-- 🔭 I’m currently working on Hack Club's juice event whilst trying to build up my Chineses. 
+- 🔭 I’m currently working on building a portfolio website!
 - 🌱 I’m also learning Design on Figma + Web Development + getting back into art at the moment!
 - Feel free to connect with me on social platforms @se1yu
